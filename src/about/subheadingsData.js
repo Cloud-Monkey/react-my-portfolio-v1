@@ -5,8 +5,11 @@ const subheadingsData = {
       content: (
         <>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          I have experience with JavaScript, React, React Native, PSQL, Express and Jest.</p>
+          <p>
+          I understand Pair Programming, TDD, Agile methodology and Kanban.</p>
+          <p>
+          I have good knowledge of Git and an AWS Cloud practicioner certificate. I am seeking a role where I can apply my skills and enthusiasm while developing professionally. I enjoy collaborative environments and solving problems.
           </p>
         </>
       ),
