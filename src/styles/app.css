@@ -7,9 +7,12 @@ body {
 }
 
 :root {
-  --purple: #540351;
-  --blue: #3627b1;
-  --cyan: #25afce;
+  /* --purple: #540351; */
+  /* --blue: #3627b1; */
+  /* --cyan: #25afce; */
+  --purple: #2a96ba;
+  --blue: #2a96ba;
+  --cyan: #2a96ba;
   --transparent: #00000000;
   --radius-left: 3rem 0 0 3rem;
   --radius-right: 0 3rem 3rem 0;
