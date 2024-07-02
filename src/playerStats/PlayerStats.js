@@ -5,10 +5,10 @@ const PlayerStats = () => {
   return (
     <div id="playerStats">
       <h1>David Brown</h1>
-      <div id="playerStats__lines">
+      {/* <div id="playerStats__lines">
         <span id="playerStats__lines__thick"></span>
         <span id="playerStats__lines__thin"></span>
-      </div>
+      </div> */}
       <h2>Junior Fullstack Developer</h2>
     </div>
   );
