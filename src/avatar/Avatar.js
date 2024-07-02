@@ -10,7 +10,8 @@ const Avatar = ({ page }) => {
   return (
     <>
       <span className={spanClass}></span>
-      <img src={avatarImage} className={avatarClass} alt="avatar" />
+      {/* below is the img for the background avatar needs new img asset */}
+      {/* <img src={avatarImage} className={avatarClass} alt="avatar" /> */}
     </>
   );
 };
