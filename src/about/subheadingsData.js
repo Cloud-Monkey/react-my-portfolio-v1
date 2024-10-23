@@ -5,11 +5,11 @@ const subheadingsData = {
       content: (
         <>
           <p>
-          I have experience with JavaScript, React, React Native, PSQL, Express and Jest.</p>
+            I have experience with JavaScript, React, React Native, PSQL, Express and Jest.</p>
           <p>
-          I understand Pair Programming, TDD, Agile methodology and Kanban.</p>
+            I understand Pair Programming, TDD, Agile methodology and Kanban.</p>
           <p>
-          I have good knowledge of Git and an AWS Cloud practicioner certificate. I am seeking a role where I can apply my skills and enthusiasm while developing professionally. I enjoy collaborative environments and solving problems.
+            I have good knowledge of Git and an AWS Cloud practicioner certificate. I am seeking a role where I can apply my skills and enthusiasm while developing professionally. I enjoy collaborative environments and solving problems.
           </p>
         </>
       ),
@@ -17,23 +17,23 @@ const subheadingsData = {
   ],
   2: [
     {
-      title: "2016 Masters Degree",
+      title: "2024 Code Institute",
       content: (
         <>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua.
+            Diploma in Full Stack Software Development
+            Code Institute - Dublin, Ireland (Remote)
           </p>
         </>
       ),
     },
     {
-      title: "2014 Bachelors Degree",
+      title: "2023 North Coders",
       content: (
         <>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua.
+            Northcoders Full Stack Software Development Bootcamp
+            NorthCoders - Manchester Technology Centre, UK
           </p>
         </>
       ),
@@ -41,12 +41,12 @@ const subheadingsData = {
   ],
   3: [
     {
-      title: "2022 Front End Developer",
+      title: "2021 In4.0 Group",
       content: (
         <>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua.
+            In4.0 Group AWS Cloud Practitioner – AWS re/Start
+            In4.0 Group - Salford, UK
           </p>
         </>
       ),
