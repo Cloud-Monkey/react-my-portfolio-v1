@@ -5,7 +5,7 @@ const subheadingsData = {
       content: (
         <>
           <p>
-            I have experience with JavaScript, React, React Native, PSQL, Express and Jest.</p>
+            I have experience with JavaScript, Python, React, Django, Bootstrap, HTML, CSS, Express and Jest.</p>
           <p>
             I understand Pair Programming, TDD, Agile methodology and Kanban.</p>
           <p>
@@ -38,6 +38,17 @@ const subheadingsData = {
         </>
       ),
     },
+    {
+      title: "2021 In4.0 Group",
+      content: (
+        <>
+          <p>
+            In4.0 Group AWS Cloud Practitioner AWS re/Start
+            In4.0 Group - Salford, UK
+          </p>
+        </>
+      ),
+    },
   ],
   3: [
     {
@@ -45,7 +56,7 @@ const subheadingsData = {
       content: (
         <>
           <p>
-            In4.0 Group AWS Cloud Practitioner – AWS re/Start
+            In4.0 Group AWS Cloud Practitioner AWS re/Start
             In4.0 Group - Salford, UK
           </p>
         </>
