@@ -39,6 +39,17 @@ const subheadingsData = {
       ),
     },
     {
+      title: "2022 The Coder's Guild",
+      content: (
+        <>
+          <p>
+            Web development course
+            (Remote)
+          </p>
+        </>
+      ),
+    },
+    {
       title: "2021 In4.0 Group",
       content: (
         <>
