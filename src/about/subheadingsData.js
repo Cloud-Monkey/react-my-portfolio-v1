@@ -9,7 +9,7 @@ const subheadingsData = {
           <p>
             Understanding of Pair Programming, TDD, Agile methodology and Kanban.</p>
           <p>
-            Good knowledge of Git and AWS Cloud practicioner certificate. Skills and enthusiasm to develop professionally. Collaborative problem solver.
+            Good knowledge of Git, AWS Cloud practicioner certificate. Skills and enthusiasm to develop professionally. Collaborative problem solver.
           </p>
         </>
       ),
