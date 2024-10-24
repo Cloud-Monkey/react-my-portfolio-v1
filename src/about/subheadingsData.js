@@ -5,9 +5,9 @@ const subheadingsData = {
       content: (
         <>
           <p>
-            I have experience with JavaScript, Python, React, Django, Bootstrap, HTML, CSS, Express and Jest.</p>
+            Junior developer, experience with JavaScript, Python, React, Django, Bootstrap, HTML, CSS, Express and Jest.</p>
           <p>
-            I understand Pair Programming, TDD, Agile methodology and Kanban.</p>
+            Understanding of Pair Programming, TDD, Agile methodology and Kanban.</p>
           <p>
             I have good knowledge of Git and an AWS Cloud practicioner certificate. I am seeking a role where I can apply my skills and enthusiasm while developing professionally. I enjoy collaborative environments and solving problems.
           </p>
@@ -32,8 +32,8 @@ const subheadingsData = {
       content: (
         <>
           <p>
-            Northcoders Full Stack Software Development Bootcamp
-            NorthCoders - Manchester Technology Centre, UK
+            Full Stack Software Development Bootcamp
+            Manchester Technology Centre, UK
           </p>
         </>
       ),
@@ -43,8 +43,8 @@ const subheadingsData = {
       content: (
         <>
           <p>
-            In4.0 Group AWS Cloud Practitioner AWS re/Start
-            In4.0 Group - Salford, UK
+            AWS Cloud Practitioner AWS re/Start
+            Salford, UK (hybrid)
           </p>
         </>
       ),
