@@ -63,7 +63,7 @@ const subheadingsData = {
   ],
   3: [
     {
-      title: "2021 In4.0 Group",
+      title: "Sales Consultant",
       content: (
         <>
           <p>
