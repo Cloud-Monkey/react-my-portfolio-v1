@@ -85,12 +85,11 @@ const subheadingsData = {
       ),
     },
     {
-      title: "2017 IT Consultant",
+      title: "2020 AWS Cloud Practicioner",
       content: (
         <>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua.
+            AWS Cloud Practicioner, In4.0 Skills City.
           </p>
         </>
       ),
